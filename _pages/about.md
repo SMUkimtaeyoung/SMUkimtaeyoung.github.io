@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "환영합니다 세명대학교 스마트 IT학부 18학번 김태영입니다."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
