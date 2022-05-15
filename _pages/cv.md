@@ -33,9 +33,9 @@ Character
 ======
 class : 한큐에 자바 Step1 >>>Java 기초 교육 ,,- Java 독학에 대한 한계를 느끼고 수강
     - 자바 기초 문법에 대한 교육
-    - <mark>Java</mark> 사용
+    - <mark>Java</mark> 사용..
     
-   class : yotube c언어 강의로 c언어 공부중..>>대학교 1학년때 c언어 수업을 제대로 듣지않을걸 후회하며 하루에 1시간씩 독학중
+   class : yotube c언어 강의로 <mark>c언어</mark> 공부중..>>대학교 1학년때 c언어 수업을 제대로 듣지않은걸 후회하며 하루에 1시간씩 독학중..
 
 
     
