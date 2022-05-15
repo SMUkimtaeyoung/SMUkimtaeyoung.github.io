@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* name:  세명대학교
+  dates: 2018.03 ~ 
+  qualification: 스마트 it학부 
+  quote: >  충청북도 제천
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+introduce
+======
+  quote: >  장 / 단점
+    저의 가장 큰 장점은 <Mark>집요함</Mark>입니다. 
+    개발을 하는데 있어 다양한 요구사항이 생겨나기 마련입니다. 또한 레퍼런스가 많이 없는 새로운 기술을 학습하여 실무에 적용해야하는 일이 많습니다.
+    저는 집요하게 학습하고 고민하여 답을 얻어내는 장점을 가지고 있습니다.
+    이는 그 동안의 특별한 사수가 없이 환경에서 혼자 고민하고 개발을 해오는데 큰 도움이 되었습니다.
+    저의 인간적인 단점으로는 소심함이 있습니다.
+    새로운 도전을 위해 지나칠 정도로 많은 고민과 함께 지레 겁을 먹는 단점이 있습니다.
+    주변에서 쓸대없는 걱정을 많이 한다는 말을 자주 듣습니다.
+    시작은 느리지만 한번 시작하면 적응도 빠르고 금방 익숙해지기 때문에 좀 더 고민을 적게하고 겁을 덜 먹으려 노력하고있습니다.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
